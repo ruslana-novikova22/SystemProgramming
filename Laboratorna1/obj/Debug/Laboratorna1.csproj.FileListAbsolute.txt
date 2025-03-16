@@ -1,0 +1,7 @@
+C:\Системне програмування\Process\Laboratorna1\bin\Debug\Laboratorna1.exe.config
+C:\Системне програмування\Process\Laboratorna1\bin\Debug\Laboratorna1.exe
+C:\Системне програмування\Process\Laboratorna1\bin\Debug\Laboratorna1.pdb
+C:\Системне програмування\Process\Laboratorna1\obj\Debug\Laboratorna1.csproj.AssemblyReference.cache
+C:\Системне програмування\Process\Laboratorna1\obj\Debug\Laboratorna1.csproj.CoreCompileInputs.cache
+C:\Системне програмування\Process\Laboratorna1\obj\Debug\Laboratorna1.exe
+C:\Системне програмування\Process\Laboratorna1\obj\Debug\Laboratorna1.pdb
